@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>DSA practice in C++ and small web projects using React.js<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly open-source projects, React apps, and problem-solving communities<br><br>🤝 I’m looking for help with<br>Advanced React concepts, backend integration, and improving problem-solving speed<br><br>🌱 I’m currently learning<br>React.js, JavaScript (ES6+), Data Structures & Algorithms, and Git/GitHub<br><br>💬 Ask me about<br>C++, DSA basics, React fundamentals, and exam-oriented coding preparation<br><br>⚡ Fun fact<br>I enjoy turning complex problems into simple logic and learning by building projects 🚀
+🔭 I’m currently working on<br>DSA practice in C++ and small web projects using MERN<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly open-source projects, React apps, and problem-solving communities<br><br>🤝 I’m looking for help with<br>Advanced React concepts, backend integration, and improving problem-solving speed<br><br>🌱 I’m currently learning<br>React.js, JavaScript (ES6+), Data Structures & Algorithms, and Git/GitHub<br><br>💬 Ask me about<br>C++, DSA basics, React fundamentals, and exam-oriented coding preparation<br><br>⚡ Fun fact<br>I enjoy turning complex problems into simple logic and learning by building projects 🚀
 
 
 ## 🌐 Socials:
